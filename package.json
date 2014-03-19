@@ -1,0 +1,8 @@
+{
+    "name":"example-node-app",
+    "description":"This app was designed to be used with Squadron's example",
+    "version":"0.0.1",
+    "dependencies":{
+        "underscore":"*"
+    }
+}
